@@ -7,6 +7,7 @@
     "require": {
         "php": "^8.1",
         "digitalcloud/laravel-blameable": "^1.1",
+        "doctrine/dbal": "*",
         "goldspecdigital/laravel-eloquent-uuid": "10.0",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.8",
@@ -15,6 +16,7 @@
         "laravel/ui": "^4.2",
         "livewire/livewire": "^2.12",
         "owen-it/laravel-auditing": "^13.5",
+        "richan-fongdasen/eloquent-blameable": "*",
         "yajra/laravel-datatables": "10.0"
     },
     "require-dev": {
